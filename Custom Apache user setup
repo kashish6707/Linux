@@ -1,6 +1,0 @@
-## Create user "rose" with uid 1522 and designate the home directory as /var/www/rose
-### UID stands for user identifier. It is a unique numerical value assigned to each user account. The system uses it to identify and differentiate between different user.
-### The /etc/passwd file stores user account information. This file contains a list of all user accounts on the system, along with their corresponding UIDs, group IDs, home directories and login shells.
-```
-sudo cat /etc/passwd
-```
